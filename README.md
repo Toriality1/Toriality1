@@ -43,6 +43,10 @@ I love making creative things, I try to be as innovative as possible in my proje
 - **Text Editor:** Neovim v0.11.2
 - **Terminals:** zsh & tmux
 
+## 🌐 Showcase
+
+For a full list of my main projects, visit my portfolio! **https://toriality.vercel.app**
+
 ---
 
 ###### ***Be the change you want to see in the world*** 💚
