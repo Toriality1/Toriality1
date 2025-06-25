@@ -9,7 +9,7 @@ Hello! I'm Pedro, a Brazilian web developer and software engineer, holding a deg
 
 I love making creative things, I try to be as innovative as possible in my projects. I also love helping out and teaching people. Feel free to explore my repositories and contacting me anytime you want.
 
-## ⚡ 𝚂𝚔𝚒𝚕𝚕𝚜
+## ⚡ 𝚂𝚔𝚒𝚕𝚕𝚜   
 
 <table>
 <thead>
@@ -43,7 +43,7 @@ I love making creative things, I try to be as innovative as possible in my proje
 - **Text Editor:** Neovim v0.11.2
 - **Terminals:** zsh & tmux
 
-## 🌐 Showcase
+## 🌐 𝚂𝚑𝚘𝚠𝚌𝚊𝚜𝚎
 
 For a full list of my main projects, visit my portfolio! **https://toriality.vercel.app**
 
