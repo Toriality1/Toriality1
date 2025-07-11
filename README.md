@@ -41,7 +41,7 @@ I love making creative things, I try to be as innovative as possible in my proje
 - **OS:** Linux Mint 22.1
 - **Window Manager:** I3 WM
 - **Text Editor:** Neovim v0.11.2
-- **Terminals:** zsh & tmux
+- **Terminals:** Alacritty & tmux
 
 ## 🌐 𝚂𝚑𝚘𝚠𝚌𝚊𝚜𝚎
 
