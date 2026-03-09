@@ -1,51 +1,66 @@
-# 👋 Welcome to my GitHub page!
+## About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=00F777&random=false&width=435&lines=Software+Engineer;Web+Developer;a+human+being)](https://git.io/typing-svg)
+I'm **Pedro**, a Brazilian software engineer based in Rio de Janeiro. I hold a degree in Information Systems from [Universidade Estácio de Sá](https://estacio.br/) and have been working professionally as a freelance developer since 2020 — building websites, custom systems, and digital solutions for clients ranging from friends with a project idea to real businesses that needed a modern web platforms.
 
-## 💻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+Most of what I do lives on the web. I've worked across the stack — databases, back-end services, front-end interfaces — and I'm comfortable owning a project from the first conversation about requirements all the way to deployment. The freelance path taught me to work independently, communicate clearly with non-technical clients, and make sensible decisions when there's no one else in the room to ask.
 
-<img align="right" height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toriality1&exclude_repo=DYOM&theme=material-palenight&layout=compact">
+I speak **Portuguese** natively, **English** at an advanced level, and have an intermediate grasp of **Spanish**.
 
-Hello! I'm Pedro, a Brazilian web developer and software engineer, holding a degree in Information Systems from [Universidade Estácio de Sá](https://estacio.br/).
+---
 
-I love making creative things, I try to be as innovative as possible in my projects. I also love helping out and teaching people. Feel free to explore my repositories and contacting me anytime you want.
+## Tech Stack
 
-## ⚡ 𝚂𝚔𝚒𝚕𝚕𝚜
+Web development is where I spend most of my time and energy, more specifically developing back-end services and infrastructure. Over the years I've also worked on mobile apps and lower-level software, but web development is my *127.0.0.1*.
+
+Below is my **main** tech stack, where most of my projects are built in, but I also have experience with a few other languages and frameworks.
 
 <table>
 <thead>
   <tr>
-    <th>Programming Languages</th>
+    <th>Languages</th>
     <th>Front-End</th>
-    <th>Back-end</th>
+    <th>Back-End</th>
     <th>Databases</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,java,python" alt="Javascript, Typescript, Java and Python" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next and Tailwind" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,flask,laravel" alt="NodeJS, Flask and Laravel" />
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="SQLite, MySQL and MongoDB" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python" alt="JavaScript, TypeScript, Java, Python" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel" alt="Node.js, Flask, Laravel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="SQLite, MySQL, MongoDB" /></td>
   </tr>
 </tbody>
 </table>
 
-- **Favorite OS:** Linux Debian
-- **Favorite Text Editor:** Neovim
+**Environment:** Linux Debian · Tmux · Neovim · Terminal-first workflow
 
-## 🌐 𝚂𝚑𝚘𝚠𝚌𝚊𝚜𝚎
-
-For a full list of my main projects, visit my portfolio! **https://toriality.vercel.app**
+I also genuinely enjoy explaining things. I've always liked the teaching side of this job — whether that's writing documentation that someone will actually read, doing code reviews that leave people with more context than they started with, or just talking through a problem out loud with a junior developer. If someone leaves a conversation with me understanding something better than before, that's a good day.
 
 ---
 
-###### **_Be the change you want to see in the world_** 💚
+## My work
+
+A full list of my projects — websites, applications, small games, tools — lives on my portfolio and on my personal blog, where I write about what I build, what I'm learning, and occasionally other things entirely.
+
+**Portfolio: [toriality.vercel.app](https://toriality.vercel.app)**
+
+**Personal blog: [toriality-blog.vercel.app](https://toriality-blog.vercel.app)**
+
+The pinned repos below are a decent cross-section of how I approach different kinds of problems. Feel free to poke around.
+
+---
+
+## Say hi
+
+If something in my repos caught your attention, or you just want to talk about a project or an idea, feel free to reach out.
+
+**Discord:** toriality
+
+**Email:** [pcrelier@hotmail.com](mailto:pcrelier@hotmail.com)
+
+---
+
+<div align="center">
+  <sub><i>"Be the change you want to see in the world."</i> 💚</sub>
+</div>
