@@ -25,9 +25,9 @@ Below is my **main** tech stack, where most of my projects are built in, but I a
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,python" alt="JavaScript, TypeScript, Java, Python" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,java,python" alt="JavaScript, TypeScript, Java, Python" /></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel" alt="Node.js, Flask, Laravel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,flask,laravel" alt="Node.js, Flask, Laravel" /></td>
     <td><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="SQLite, MySQL, MongoDB" /></td>
   </tr>
 </tbody>
@@ -35,7 +35,7 @@ Below is my **main** tech stack, where most of my projects are built in, but I a
 
 **Environment:** Linux Debian · Tmux · Neovim · Terminal-first workflow
 
-I also genuinely enjoy explaining things. I've always liked the teaching side of this job — whether that's writing documentation that someone will actually read, doing code reviews that leave people with more context than they started with, or just talking through a problem out loud with a junior developer. If someone leaves a conversation with me understanding something better than before, that's a good day.
+I also genuinely enjoy explaining things. I've always liked the teaching side of this job — whether that's writing documentation that someone will actually read, doing code reviews that leave people with more context than they started with, or just working through a problem together with a junior developer. If someone leaves a conversation with me understanding something better than before, that's a good day.
 
 ---
 
